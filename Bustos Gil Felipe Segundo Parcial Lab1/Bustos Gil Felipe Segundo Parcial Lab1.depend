@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1593614316 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593607688 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\linkedlist.h
+
+1589931243 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	<string.h>
+
+1589926856 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\validaciones.h
+
+1593614316 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Validaciones.h"
+	<time.h>
+	<string.h>
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1593614015 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Validaciones.h"
+	<time.h>
+	<string.h>
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1593613938 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\paises.h
+
+1593613937 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\parser.h
+
+1593613935 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\informes.h
+
+1593614015 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\paises.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Validaciones.h"
+	<time.h>
+	<string.h>
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1593614015 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustos gil felipe segundo parcial lab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Validaciones.h"
+	<time.h>
+	<string.h>
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
